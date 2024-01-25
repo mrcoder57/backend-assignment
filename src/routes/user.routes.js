@@ -26,7 +26,6 @@ const router = express.Router();
  *               properties:
  *                 message:
  *                   type: string
- *  token:
  *                   type: string
  *                   example: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
  */
